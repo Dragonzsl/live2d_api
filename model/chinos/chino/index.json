@@ -2,7 +2,7 @@
     "posted": "Dreamer-Paul",
     "type": "Live2D Model Setting",
     "name": "Chino",
-    "model": "chino.moc",
+    "model": "model.moc",
     "textures": [
         "textures/texture_00.png"
     ],
